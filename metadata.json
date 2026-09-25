@@ -1,0 +1,6 @@
+{
+  "name": "Secret Chat",
+  "description": "End-to-end encrypted private chat with voice notes, image sharing, and peer-to-peer audio/video calls.",
+  "permissions": [],
+  "capabilities": []
+}
